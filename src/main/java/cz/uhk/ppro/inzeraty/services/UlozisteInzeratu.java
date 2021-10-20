@@ -1,4 +1,4 @@
-package cz.uhk.ppro.inzeraty.sluzby;
+package cz.uhk.ppro.inzeraty.services;
 
 import java.util.List;
 
